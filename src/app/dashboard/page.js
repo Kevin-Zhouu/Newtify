@@ -84,7 +84,7 @@ export default function Home() {
           className="rounded-md aspect-square w-[27px]"
         />
         <div className="mt-3.5 text-base font-medium text-black">
-          Daily Summary
+          AI Summary
         </div>
         <div className="mt-6 text-xs font-medium text-neutral-500">
           • Students confident human skills will prevail over AI in workforce.{" "}
